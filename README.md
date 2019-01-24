@@ -1,5 +1,4 @@
 # Arduino-LedAnimations
-<h1>Arduino Led Animations</h1>
 <h3>Behavior:</h3>
 <p>
 	On power up the LEDs will blink 5 times meaning that all of the LEDs are working, this is the ledInit function running.
