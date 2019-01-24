@@ -7,5 +7,5 @@
  	Finally, of the thrid button press there will be a wave animation of the LEDs, going from outside to inside then back to outside, once again, the speed of this animation will be controlled by the postiion of the pot.
  </p>
 <h3>Wriring</h3>
-<img src="Fritzing_BreadboardLayout.jpg">
-<img src="Fritzing_SchematicView.jpg">
+<img src="Images/Fritzing_BreadboardLayout.jpg">
+<img src="Images/Fritzing_SchematicView.jpg">
